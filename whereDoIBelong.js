@@ -12,3 +12,4 @@ function getIndexToIns(arr, num) {
 
   return arr.length;
 }
+mnbnvv
